@@ -1,4 +1,5 @@
 title: Joe Regina
 logo: /assets/img/profile picture.png
 # description: 
+baseurl: /Portfolio
 theme: jekyll-theme-minimal

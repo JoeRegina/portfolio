@@ -14,7 +14,7 @@ I'm a Mathematics and Data Science student at Truman State University, minoring 
 [Click here](https://joeregina.github.io/Portfolio/playfair) to see the full project.
 -->
 #### Part 1: Critique
-> ![Playfair's original visualization](/assets/img/playfair graph.png)
+![Playfair's original visualization](/assets/img/playfair graph.png)
 > Individually, the representations of the individual variables work well. The sizes of the circles
 are useful for comparing land area, and are scaled correctly. The lines are also helpful for
 comparing population and tax revenue for each country. The diagonal lines connecting the

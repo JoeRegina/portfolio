@@ -27,9 +27,11 @@ In the end, with some work from the viewer, you can understand what the graph wa
 communicate. However, it is not immediately obvious, so the graph does not communicate it
 well. It most obviously shows the comparisons of land areas, and with a bit of digging you
 can see the population and tax revenue comparison.
+
 #### Part 2: Re-creation
 <details>
   <summary>Click to view code</summary>
+  
 ```r
 get_circle_x <- function(radius_vector) {
   position_sum <- 0
@@ -150,9 +152,10 @@ ggplot(data = europe) +
         panel.background = element_rect(fill = "#EFCFA8"),
         panel.grid.major = element_line(color = "#666666"))
 ```
+
 </details>
 
-
+#### Part 3
 
 <!--
 [Click here](https://joeregina.github.io/Portfolio/playfair) to see the full project.

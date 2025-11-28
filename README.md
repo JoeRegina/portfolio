@@ -11,7 +11,7 @@ I'm a Mathematics and Data Science student at Truman State University, minoring 
 
 ### Playfair Recreation
 
-
+[Click here](https://joeregina.github.io/Portfolio/playfair) to see the full project.
 
 
 
